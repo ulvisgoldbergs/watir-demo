@@ -1,0 +1,29 @@
+Stage:
+  url: "http://staging.worldremit.com"
+  validUser:
+    username: "wc3tester@gmail.com"
+    password: "tester1234"
+    first_name: "Automation"
+    middle_name: "Tester"
+    last_name: "Capybara"
+  invalidUser:
+    username: "fake@mail.com"
+    password: "fakepassword"
+    first_name: "Test1"
+    middle_name: "Test2"
+    last_name: "Test3"
+
+Prod:
+  url: "http://www.worldremit.com"
+  validUser:
+    username: "wc3tester@gmail.com"
+    password: "tester1234"
+    first_name: "Automation"
+    middle_name: "Tester"
+    last_name: "Capybara"
+  invalidUser:
+    username: "fake@mail.com"
+    password: "fakepassword"
+    first_name: "Test1"
+    middle_name: "Test2"
+    last_name: "Test3"
